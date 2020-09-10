@@ -1,6 +1,14 @@
-## Caroline Juang
+# Caroline Juang
 
-# Resume
+![Photo of myself](Zoom_headshot.png)
 
-![photo of myself](Zoom headshot 9-9-2020.png)
+## Education
 
+[Columbia University](https://eesc.columbia.edu/), Earth and Environmental Sciences
+
+[Harvard University](https://eps.harvard.edu/), Earth and Planetary Sciences
+
+## Research Interests
+
+* Modern climate
+* Fires in the western United States
